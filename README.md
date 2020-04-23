@@ -1,2 +1,2 @@
-# Cs.-Fisicas
-Un repositorio de la carrera
+# AyT
+Un repositorio del ramo de Álgebra y Trigonometría.
